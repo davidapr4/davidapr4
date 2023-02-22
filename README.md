@@ -25,13 +25,13 @@
 <h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="25"></a></code>
-  <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://img.icons8.com/color/256/flask.png" height="25"></a></code>
+  <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" height="25"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="25"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="25"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="25"></a></code>
    <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="25"></a></code>
   <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://img.icons8.com/color/256/git.png" height="25"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" height="25"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" height="25"></a></code>
   <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" height="25"></a></code>
   <code><a href="https://www.arduino.cc/"><img alt="Arduino" title="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" height="25"></a></code>
   <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://img.icons8.com/color/256/tensorflow.png" height="25"></a></code>
