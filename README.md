@@ -1,6 +1,6 @@
 <a href="https://github.com/davidapr4">![davidapr4 Profile GIF](./assets/profile.gif)</a>
 
-<h1 align='center'> Reach me :</h1>
+<h2 align='center'> Reach me :</h2>
 <p align='center'>
    <a href="https://www.linkedin.com/in/davidapriyanto">
       <img src="https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin">
@@ -16,7 +16,7 @@
 <hr>
 
 <h2 align='center'>About Me</h2>
-* Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='20px'>
+* Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='20px' />
 * Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> <br> majoring in Bachelor of Applied Mechanical Engineering Technology
 * Interesting in programming and mechanical design
 
@@ -26,7 +26,7 @@
 <p align='center'>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="25"></a></code>
   <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://img.icons8.com/color/256/flask.png" height="25"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="25"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="25"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="25"></a></code>
    <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="25"></a></code>
@@ -39,7 +39,7 @@
 
 <br>
 
-<h1 align=''>Software I use</h1>
+<h2 align='center'>Software I use</h2>
 <p align='center'>
    <code><a href="https://code.visualstudio.com/"><img alt="VSCode" title="VSCode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="25"></a></code>
    <code><a href="https://www.solidworks.com/"><img alt="Solidworks" title="Solidworks" src="https://img.icons8.com/color/256/solidworks.png" height="25"></a></code>
@@ -49,7 +49,7 @@
 
 <br>
 
-## Github Stats
+<h2 align='center'>Github Stats</h2>
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
