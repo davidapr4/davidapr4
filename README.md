@@ -1,5 +1,17 @@
 <a href="https://github.com/davidapr4">![davidapr4 Profile GIF](./assets/profile.gif)</a>
 
+<h1 align='center'> Reach me :</h1>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/davidapriyanto">
+      <img src="https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin">
+   </a>
+   <a href = "mailto: davidapr41@mail.ugm.ac.id">Send Email
+      <img src="https://img.shields.io/badge/mail-fafafa?&style=for-the-badge&logo=gmail">
+   </a>
+   <a href="https://www.instagram.com/david.apr">
+      <img src="https://img.shields.io/badge/instagram-d62976?&style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+</p>  
 
 <!--
 ### Hi there 👋
