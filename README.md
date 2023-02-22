@@ -1,6 +1,8 @@
-### Hi there 👋
+<a href="https://github.com/davidapr4">![davidapr4 Profile GIF](./assets/profile.gif)</a>
+
 
 <!--
+### Hi there 👋
 **davidapr4/davidapr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
