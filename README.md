@@ -15,14 +15,14 @@
 
 <hr>
 
-<h1 align='center'>About Me</h1>
-* Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg">
+<h2 align='center'>About Me</h2>
+* Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='20px'>
 * Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> <br> majoring in Bachelor of Applied Mechanical Engineering Technology
 * Interesting in programming and mechanical design
 
-<hr>
+<br>
 
-<h1 align='center'>Tech Stack</h1>
+<h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="25"></a></code>
   <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://img.icons8.com/color/256/flask.png" height="25"></a></code>
