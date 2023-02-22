@@ -16,7 +16,7 @@
 <hr>
 
 <h1 align='center'>About Me</h1>
-* <img src="">Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a>
+* Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg">
 * Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> <br> majoring in Bachelor of Applied Mechanical Engineering Technology
 * Interesting in programming and mechanical design
 
@@ -24,17 +24,17 @@
 
 <h1 align='center'>Tech Stack</h1>
 <p align='center'>
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=search&related_id=5968350" height="25"></a></code>
-  <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://icons8.com/icon/TtXEs5SeYLG8/flask" height="25"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://www.flaticon.com/free-icon/html-5_888859?term=html&page=1&position=7&origin=search&related_id=888859" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://www.flaticon.com/free-icon/css_888847?term=css&page=1&position=6&origin=search&related_id=888847" height="25"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292" height="25"></a></code>
-   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://www.flaticon.com/free-icon/bootstrap_5968672?term=bootstrap&page=1&position=1&origin=search&related_id=5968672" height="25"></a></code>
-  <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://icons8.com/icon/20906/git" height="25"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://www.flaticon.com/free-icon/github_2111432?term=github&page=1&position=4&origin=search&related_id=2111432" height="25"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://www.flaticon.com/free-icon/atom_3459528?term=react&page=1&position=16&origin=search&related_id=3459528" height="25"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="25"></a></code>
+  <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://img.icons8.com/color/256/flask.png" height="25"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="25"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="25"></a></code>
+   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="25"></a></code>
+  <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://img.icons8.com/color/256/git.png" height="25"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" height="25"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" height="25"></a></code>
   <code><a href="https://www.arduino.cc/"><img alt="Arduino" title="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" height="25"></a></code>
-  <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow" height="25"></a></code>
+  <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://img.icons8.com/color/256/tensorflow.png" height="25"></a></code>
 </p>
 
 <br>
@@ -42,8 +42,8 @@
 <h1 align=''>Software I use</h1>
 <p align='center'>
    <code><a href="https://code.visualstudio.com/"><img alt="VSCode" title="VSCode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="25"></a></code>
-   <code><a href="https://www.solidworks.com/"><img alt="Solidworks" title="Solidworks" src="https://icons8.com/icon/62397/solidworks" height="25"></a></code>
-   <code><a href="https://www.autodesk.com/"><img alt="Inventor" title="Inventor" src="https://icons8.com/icon/QIY48dckI9j3/autodesk-inventor-2020" height="25"></a></code>
+   <code><a href="https://www.solidworks.com/"><img alt="Solidworks" title="Solidworks" src="https://img.icons8.com/color/256/solidworks.png" height="25"></a></code>
+   <code><a href="https://www.autodesk.com/"><img alt="Inventor" title="Inventor" src="https://img.icons8.com/fluency/256/autodesk-inventor-2020.png" height="25"></a></code>
    <code><a href="https://www.autodesk.com/"><img alt="AutoCAD" title="AutoCAD" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.png" height="25"></a></code>
 </p>
 
