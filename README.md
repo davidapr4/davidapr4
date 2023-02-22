@@ -16,16 +16,22 @@
 <hr>
 
 <h2 align='center'>About Me</h2>
-* Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='20px' />
-* Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> <br> majoring in Bachelor of Applied Mechanical Engineering Technology
-* Interesting in programming and mechanical design
+<li>
+   Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='20px'/>
+</li>
+<li>
+   Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> <br> majoring in Bachelor of Applied Mechanical Engineering Technology
+</li>
+<li>
+   Interesting in programming and mechanical design
+</li>
 
 <br>
 
 <h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="25"></a></code>
-  <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" height="25"></a></code>
+  <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://www.wizcase.com/wp-content/uploads/2022/05/en-flask-logo.jpg" height="25"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="25"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="25"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="25"></a></code>
