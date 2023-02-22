@@ -17,10 +17,10 @@
 
 <h2 align='center'>About Me</h2>
 <li>
-   Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='20px'/>
+   Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='15px'/>
 </li>
 <li>
-   Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> <br> majoring in Bachelor of Applied Mechanical Engineering Technology
+   Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> majoring in Bachelor of Applied Mechanical Engineering Technology
 </li>
 <li>
    Interesting in programming and mechanical design
