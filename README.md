@@ -17,7 +17,7 @@
 
 <h2 align='center'>About Me</h2>
 <li>
-   Production Engineering Intern at PT Mesin Isuzu Indonesia
+   Production Engineering Intern at PT Mesin Isuzu Indonesia (Current)
 </li>   
 <li>
    Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='15px'/>
