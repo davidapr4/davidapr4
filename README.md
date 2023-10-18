@@ -17,13 +17,16 @@
 
 <h2 align='center'>About Me</h2>
 <li>
+   Production Engineering Intern at PT Mesin Isuzu Indonesia
+</li>   
+<li>
    Machine Learning Student at <a href="https://g.co/bangkit">Bangkit Academy 2023 by Google, GoTo, Traveloka</a><img src="./assets/bangkit-logo.svg" width='15px'/>
 </li>
 <li>
    Undergraduate student at <a href="https://ugm.ac.id">Universitas Gadjah Mada</a> majoring in Bachelor of Applied Mechanical Engineering Technology
 </li>
 <li>
-   Interesting in programming and mechanical design
+   Interesting in programming, IoT and mechanical design
 </li>
 
 <br>
@@ -31,16 +34,17 @@
 <h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="30"></a></code>
+  <code><a href="https://platformio.org/"><img alt="PlatformIO" title="PlatformIO" src="https://iconduck.com/icons/94747/platformio?shared" height="30"></a></code>
+  <code><a href="https://www.arduino.cc/"><img alt="Arduino" title="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" height="30"></a></code>
+  <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://img.icons8.com/color/256/tensorflow.png" height="30"></a></code>
   <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://www.wizcase.com/wp-content/uploads/2022/05/en-flask-logo.jpg" height="30"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="30"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="30"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30"></a></code>
-   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="30"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="30"></a></code>
   <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://img.icons8.com/color/256/git.png" height="30"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" height="30"></a></code>
   <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" height="30"></a></code>
-  <code><a href="https://www.arduino.cc/"><img alt="Arduino" title="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" height="30"></a></code>
-  <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://img.icons8.com/color/256/tensorflow.png" height="30"></a></code>
 </p>
 
 <br>
