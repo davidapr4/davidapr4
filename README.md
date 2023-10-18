@@ -34,7 +34,7 @@
 <h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="30"></a></code>
-  <code><a href="https://platformio.org/"><img alt="PlatformIO" title="PlatformIO" src="https://iconduck.com/icons/94747/platformio?shared" height="30"></a></code>
+  <code><a href="https://platformio.org/"><img alt="PlatformIO" title="PlatformIO" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_platformio_icon_130257.png" height="30"></a></code>
   <code><a href="https://www.arduino.cc/"><img alt="Arduino" title="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png" height="30"></a></code>
   <code><a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://img.icons8.com/color/256/tensorflow.png" height="30"></a></code>
   <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="https://www.wizcase.com/wp-content/uploads/2022/05/en-flask-logo.jpg" height="30"></a></code>
